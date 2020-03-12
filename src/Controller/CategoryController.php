@@ -12,6 +12,7 @@ use Symfony\Component\Routing\Annotation\Route;
 
 /**
  * @Route("/category") feature
+ * feature2
  */
 class CategoryController extends AbstractController
 {
